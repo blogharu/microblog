@@ -14,3 +14,5 @@ If you would rather use the Gitpod development environment for this app:
 
 - Change the dropdown that says "Web IDE" to "Gitpod" (if it already says "Gitpod" skip this step)
 - Click the button that says "Gitpod"
+
+<img width="1199" alt="스크린샷 2023-02-22 오후 3 04 39" src="https://user-images.githubusercontent.com/34163093/220540567-587f0edd-1d29-4bf2-be18-29d20f8587cd.png">
